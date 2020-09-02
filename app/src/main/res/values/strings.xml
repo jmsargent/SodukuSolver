@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Soduku Solver</string>
+    <string name="Solve">Solve</string>
+    <string name="dialog_text">Important messages here</string>
+</resources>
